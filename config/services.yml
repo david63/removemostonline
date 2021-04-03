@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        public: true
+
+    david63.removemostonline.listener:
+        class: david63\removemostonline\event\listener
+        tags:
+            - { name: event.listener }
