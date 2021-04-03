@@ -1,4 +1,4 @@
-# Schedule Topic Lock extension for phpBB
+# Remove Most Online extension for phpBB
 
 An extension to remove the most online statistic.
 
